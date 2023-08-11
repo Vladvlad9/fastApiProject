@@ -1,0 +1,8 @@
+alembic==1.8.1
+psycopg2-binary==2.9.3
+pydantic==1.9.1
+SQLAlchemy==1.4.39
+pip~=23.1.2
+wheel~=0.40.0
+setuptools~=68.0.0
+fastapi~=0.101.0
